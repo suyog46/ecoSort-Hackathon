@@ -18,7 +18,7 @@ env/
 # Data and results files (specific to your project)
 runs/
 *.csv
-*.json
+# *.json
 *.log
 *.pkl
 *.h5
