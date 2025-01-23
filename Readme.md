@@ -1,4 +1,4 @@
-# Ecosort :recycle:	
+# Ecosort :recycle:	:white_check_mark:
 **Smart Waste Classification System**  
 
 ## Overview  
