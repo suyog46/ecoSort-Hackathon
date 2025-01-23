@@ -1,4 +1,4 @@
-# Ecosort \U0001F5D1️\u267B️  
+# Ecosort :recycle:	
 **Smart Waste Classification System**  
 
 ## Overview  
