@@ -1,0 +1,50 @@
+# Python bytecode files
+__pycache__/
+*.py[cod]
+
+# Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# Virtual environment folders
+venv/
+env/
+.venv/
+.env/
+
+# IDE specific files (e.g., VSCode, PyCharm)
+.vscode/
+.idea/
+
+# Data and results files (specific to your project)
+runs/
+*.csv
+*.json
+*.log
+*.pkl
+*.h5
+
+# Temporary files
+*.bak
+*.swp
+
+# System-specific files
+.DS_Store  # macOS
+Thumbs.db  # Windows
+
+# Python packaging
+dist/
+build/
+*.egg-info/
+
+# Docker and environment-related files
+*.env
+.env/
+docker-compose.override.yml
+
+# For datasets (if large and stored locally)
+datasets/
+
+ecoSort-backend/node_modules
+
+ecoSort-backend/.env
+

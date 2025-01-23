@@ -1,0 +1,61 @@
+# Python bytecode files
+__pycache__/
+*.py[cod]
+
+# Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# Virtual environment directories
+venv/
+env/
+myenv/
+*.env/
+
+# Dependency directories (if using conda or pipenv)
+Pipfile.lock
+requirements.txt
+
+# Model files (e.g., PyTorch, TensorFlow, ONNX models)
+*.pt
+*.h5
+*.onnx
+*.ckpt
+
+# TensorFlow SavedModel directory
+saved_model/
+
+# Logs and temporary files
+*.log
+*.tmp
+*.bak
+*.swp
+*.swo
+
+# Dataset directories (if large datasets are downloaded)
+datasets/
+data/
+
+# Training outputs
+runs/
+outputs/
+*/weights/
+*/checkpoints/
+
+# System-specific files
+.DS_Store         # macOS
+Thumbs.db         # Windows
+
+# Configuration files (environment-specific)
+.env
+.envrc
+*.conf
+*.ini
+
+# IDE files (e.g., VSCode, PyCharm)
+.vscode/
+.idea/
+
+# Other unwanted files
+*.tgz
+*.zip
+*.tar.gz
